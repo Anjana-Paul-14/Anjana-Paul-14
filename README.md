@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anjana Paul</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I am a skilled Software Developer focused on front-end development with React and Tailwind CSS, complemented by
+backend experience in Python, SQL, and Node.js, and a portfolio of innovative projects on GitHub.</h3>
 
 - 🌱 I’m currently learning **React JS , Next JS, TypeScript**
 
