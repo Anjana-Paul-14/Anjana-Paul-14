@@ -10,7 +10,7 @@ backend experience in Python, SQL, and Node.js, and a portfolio of innovative pr
 
 - 📫 How to reach me **anjanapaul0614@gmail.com**
 
-- 📄 Know about my experiences [https:](https:)
+<!---- 📄 Know about my experiences [https:](https:)-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
